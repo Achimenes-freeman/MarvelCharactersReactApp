@@ -26,6 +26,9 @@
             height: 150px;
             object-fit: cover;
         }
+        .obj-fit-char-list-item{
+            object-fit: fill;
+        }
     }
     &__btns {
         margin-top: 35px;

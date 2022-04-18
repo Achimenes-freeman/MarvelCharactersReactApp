@@ -10,7 +10,7 @@ class RandomChar extends Component {
 
     state = {
         char: {},
-        loading: null,
+        loading: true,
         error: false
     }
 
