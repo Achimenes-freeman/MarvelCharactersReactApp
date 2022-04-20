@@ -1,4 +1,5 @@
 import { Component } from 'react/cjs/react.production.min';
+import PropTypes from 'prop-types';
 import MarvelService from '../../services/MarvelService';
 
 import Spinner from '../spinner/Spinner';
@@ -107,6 +108,9 @@ const View = ({char}) => {
             <div className="char__comics">Comics:</div>
             <ul className="char__comics-list">
                 {
+                    comics.length > 0 ? null : 'Комиксы отсутствуют'
+                }
+                {
                     comics.map((item, i) => {
                         return (
                             <li key={i} className="char__comics-item">
@@ -119,5 +123,6 @@ const View = ({char}) => {
         </>
     )
 }
+
 
 export default CharInfo;
