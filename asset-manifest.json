@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/MarvelCharactersReactApp/static/css/main.02030a4b.chunk.css",
-    "main.js": "/MarvelCharactersReactApp/static/js/main.cf6f3d28.chunk.js",
-    "main.js.map": "/MarvelCharactersReactApp/static/js/main.cf6f3d28.chunk.js.map",
+    "main.css": "/MarvelCharactersReactApp/static/css/main.64c20257.chunk.css",
+    "main.js": "/MarvelCharactersReactApp/static/js/main.e5a6f523.chunk.js",
+    "main.js.map": "/MarvelCharactersReactApp/static/js/main.e5a6f523.chunk.js.map",
     "runtime-main.js": "/MarvelCharactersReactApp/static/js/runtime-main.82a41be4.js",
     "runtime-main.js.map": "/MarvelCharactersReactApp/static/js/runtime-main.82a41be4.js.map",
-    "static/js/2.c7b2435f.chunk.js": "/MarvelCharactersReactApp/static/js/2.c7b2435f.chunk.js",
-    "static/js/2.c7b2435f.chunk.js.map": "/MarvelCharactersReactApp/static/js/2.c7b2435f.chunk.js.map",
+    "static/js/2.c2fa9152.chunk.js": "/MarvelCharactersReactApp/static/js/2.c2fa9152.chunk.js",
+    "static/js/2.c2fa9152.chunk.js.map": "/MarvelCharactersReactApp/static/js/2.c2fa9152.chunk.js.map",
     "index.html": "/MarvelCharactersReactApp/index.html",
-    "static/css/main.02030a4b.chunk.css.map": "/MarvelCharactersReactApp/static/css/main.02030a4b.chunk.css.map",
-    "static/js/2.c7b2435f.chunk.js.LICENSE.txt": "/MarvelCharactersReactApp/static/js/2.c7b2435f.chunk.js.LICENSE.txt",
+    "static/css/main.64c20257.chunk.css.map": "/MarvelCharactersReactApp/static/css/main.64c20257.chunk.css.map",
+    "static/js/2.c2fa9152.chunk.js.LICENSE.txt": "/MarvelCharactersReactApp/static/js/2.c2fa9152.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/MarvelCharactersReactApp/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/MarvelCharactersReactApp/static/media/Avengers_logo.9eaf2193.png",
     "static/media/error.42292aa1.gif": "/MarvelCharactersReactApp/static/media/error.42292aa1.gif",
     "static/media/mjolnir.61f31e18.png": "/MarvelCharactersReactApp/static/media/mjolnir.61f31e18.png",
     "static/media/vision.067d4ae1.png": "/MarvelCharactersReactApp/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.82a41be4.js",
-    "static/js/2.c7b2435f.chunk.js",
-    "static/css/main.02030a4b.chunk.css",
-    "static/js/main.cf6f3d28.chunk.js"
+    "static/js/2.c2fa9152.chunk.js",
+    "static/css/main.64c20257.chunk.css",
+    "static/js/main.e5a6f523.chunk.js"
   ]
 }
