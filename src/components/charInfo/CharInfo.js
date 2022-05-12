@@ -4,6 +4,7 @@ import useMarvelService from '../../services/MarvelService';
 import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMessage';
 import Skeleton from '../skeleton/Skeleton';
+import SearchCharForm from "../searchCharForm/SearchCharForm";
 
 import './charInfo.scss';
 
@@ -29,7 +30,6 @@ const CharInfo = (props) => {
     }
 
     useEffect(() => {
-        console.log('props')
             updateChar();
     }, [props.charId]);
 
@@ -39,12 +39,12 @@ const CharInfo = (props) => {
         const content = !(loading || error || !char) ? <View char={char}/> : null; 
 
         return (
-            <div className="char__info">
-                {skeleton}
-                {errorMessage}
-                {spinner}
-                {content}
-            </div>
+                <div className="char__info">
+                    {skeleton}
+                    {errorMessage}
+                    {spinner}
+                    {content}
+                </div>
         )
 }
 
